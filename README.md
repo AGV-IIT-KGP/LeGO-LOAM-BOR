@@ -1,4 +1,4 @@
-# Localisation in Premapped Environment
+# LeGO-LOAM + Relocalisation
 
 This is a customised LeGO-LOAM to save the mapping result during the first run and then localise in a premapped environment for later runs. The map is stored in the dump format readable from [interactive slam](https://github.com/SMRT-AIST/interactive_slam) in the ```/tmp/dump``` folder and is read from the same folder while localising in the premapped environment.
 
