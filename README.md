@@ -20,11 +20,6 @@ This code uses this [LeGO-LOAM-BOR repository](https://github.com/koide3/LeGO-LO
     <img src="./LeGO-LOAM/launch/map_demo.png" alt="drawing" width="500" height="400"/>
 </p>
 
-## Results
-<p align='center'>
-    <img src="./LeGO-LOAM/launch/error_on_lego_premapped.png" alt="drawing" width="800" height="400"/>
-</p>
-
 ## Dependency
 
 - [ROS](http://wiki.ros.org/ROS/Installation) (tested with indigo and kinetic)
